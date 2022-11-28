@@ -1,7 +1,7 @@
 ---
-title: Registered Reports in Psychology - A Panel Discussion
+title: Discussion session VI - Frontiers in Meta-Science
 
-event: Association for Psychological Science (APS) Annual Convention
+event: Open Research Working Group (ORWG) virtual meeting
 event_url: https://www.psychologicalscience.org/conventions/archive/2022-aps-annual-convention-3
 
 location: Chicago, Illinois, USA
@@ -31,8 +31,12 @@ image:
 links:
   - icon: osf
     icon_pack: ai
+    name: UK-ORWG
+    url: https://osf.io/vgt3x/
+  - icon: youtube
+    icon_pack: fab
     name: Recording
-    url: https://osf.io/y9e32 
+    url: https://www.youtube.com/watch?v=YP6sKV0dkoA
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -53,15 +57,3 @@ slides: example
 projects:
   - example
 ---
-
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
