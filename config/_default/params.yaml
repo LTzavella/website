@@ -6,10 +6,25 @@
 # Appearance
 
 appearance:
-  theme_day: cyberpunk
-  theme_night: cyberpunk
+  theme_day: strawberry
+  theme_night: dark
   font: minimal
   font_size: M
+
+# SEO
+
+marketing:
+  seo:
+    site_type: Person
+    local_business_type: ''
+    org_name: ''
+    description: ''
+  analytics:
+    google_analytics: ''
+    baidu_tongji: ''
+  verification:
+    google: ''
+    baidu: ''
 
 # Site header
 

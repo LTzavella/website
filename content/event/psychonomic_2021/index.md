@@ -4,7 +4,7 @@ title: Discussion session VI - Frontiers in Meta-Science
 event: Open Research Working Group (ORWG) virtual meeting
 event_url: https://www.psychologicalscience.org/conventions/archive/2022-aps-annual-convention-3
 
-location: Online
+location: Virtual meeting
 
 summary: Invited speaker for the APS symposium on Registered Reports.
 abstract: ''
@@ -13,7 +13,7 @@ abstract: ''
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2020-09-08T13:00:00Z'
 # date_end: '2030-06-01T15:00:00Z'
-# all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 # publishDate: '2017-01-01T00:00:00Z'

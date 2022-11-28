@@ -14,20 +14,25 @@ sections:
       text:
   - block: features
     content:
-      title: Skills
+      title: Research Interests<br></br>
       items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
+        - name: 📖 Reproducibility & Metascience
+          description: '<br></br>'
+        - name: 🍎 Dietary behaviour change
+        - name: 📝 Implicit cognition measures 
+        - name: 🖥️ Experimental Psychology
+        - name: 🧠 Cognitive Neuroscience
+        - name: 📊 Data Science using R
+  - block: features
+    content:
+      title: Education
+      items:
+        - name: ⚪ PhD Psychology
+          description: <h4>Cardiff University (2019)</h4>
+        - name: ⚪ MSc Neuroimaging Methods & Applications
+          description: <h4>Cardiff University (2014) </h4>
+        - name: ⚪ BSc Psychology
+          description: <h4>Nottingham Trent University (2013) </h4>
   - block: experience
     content:
       title: Experience
@@ -47,7 +52,7 @@ sections:
           date_start: '2021-10-01'
           date_end: ''
           description: |2-
-              **Metascience projects**:
+              <p-card>Metascience projects:</p-card>
         
               * Building tools for the implementation of [TOP guidelines](https://www.cos.io/initiatives/top-guidelines) in academic journals
               * Conducing meta-scientific research for TOP guidelines and Registered Reports
@@ -209,6 +214,22 @@ sections:
     design:
       columns: '2'
       view: compact
+  - block: features
+    content:
+      title: Skills
+      items:
+        - name: R
+          description: 90%
+          icon: r-project
+          icon_pack: fab
+        - name: Statistics
+          description: 100%
+          icon: chart-line
+          icon_pack: fas
+        - name: Photography
+          description: 10%
+          icon: camera-retro
+          icon_pack: fas
   - block: tag_cloud
     content:
       title: Popular Topics

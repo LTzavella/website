@@ -1,19 +1,19 @@
 ---
-title: Discussion session VI - Frontiers in Meta-Science
+title: Session lead for ‘Improving Registered Reports for authors, reviewers and editors’
 
-event: Open Research Working Group (ORWG) virtual meeting
-event_url: https://www.psychologicalscience.org/conventions/archive/2022-aps-annual-convention-3
+event: Society for the Improvement of Psychological Science (SIPS) Annual Meeting
+event_url: https://docs.google.com/document/d/e/2PACX-1vSGIkhtdNoTURaeCkpCWrVS64md_U2cCXNape5nAa1cZOuz1vKGg66wblntTSiH6JtuS6FXDiu9PFm0/pub
 
 location: Online
 
-summary: Invited speaker for the APS symposium on Registered Reports.
+summary: A summary of the session can be found in [this post](https://loukiatzavella.netlify.app/post/sips_summary/). 
 abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2020-09-08T13:00:00Z'
+date: '2021-06-13T13:00:00Z'
 # date_end: '2030-06-01T15:00:00Z'
-# all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -28,15 +28,6 @@ image:
   caption: ''
   focal_point: smart
 
-links:
-  - icon: osf
-    icon_pack: ai
-    name: UK-ORWG
-    url: https://osf.io/vgt3x/
-  - icon: youtube
-    icon_pack: fab
-    name: Recording
-    url: https://www.youtube.com/watch?v=YP6sKV0dkoA
 url_code: ''
 url_pdf: ''
 url_slides: ''
