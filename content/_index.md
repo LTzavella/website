@@ -12,27 +12,18 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
-  - block: features
-    content:
-      title: Research Interests<br></br>
-      items:
-        - name: 📖 Reproducibility & Metascience
-          description: '<br></br>'
-        - name: 🍎 Dietary behaviour change
-        - name: 📝 Implicit cognition measures 
-        - name: 🖥️ Experimental Psychology
-        - name: 🧠 Cognitive Neuroscience
-        - name: 📊 Data Science using R
-  - block: features
-    content:
-      title: Education
-      items:
-        - name: ⚪ PhD Psychology
-          description: <h4>Cardiff University (2019)</h4>
-        - name: ⚪ MSc Neuroimaging Methods & Applications
-          description: <h4>Cardiff University (2014) </h4>
-        - name: ⚪ BSc Psychology
-          description: <h4>Nottingham Trent University (2013) </h4>
+# - block: features
+ #   content:
+ #     title: Research Interests<br></br>
+ #     items:
+  #      - name: 📖 Reproducibility & Metascience
+  #        description: '<br></br>'
+   #     - name: 🍎 Dietary behaviour change
+   #     - name: 📝 Implicit cognition measures 
+    #    - name: 🖥️ Experimental Psychology
+    #    - name: 🧠 Cognitive Neuroscience
+     #   - name: 📊 Data Science using R
+
   - block: experience
     content:
       title: Experience
@@ -47,37 +38,30 @@ sections:
       items:
         - title: Postdoctoral Research Associate
           company: CUBRIC, Cardiff University
-          company_url: ''
-          location: UK
           date_start: '2021-10-01'
           date_end: ''
           description: |2-
               <p-card>Metascience projects:</p-card>
         
-              * Building tools for the implementation of [TOP guidelines](https://www.cos.io/initiatives/top-guidelines) in academic journals
-              * Conducing meta-scientific research for TOP guidelines and Registered Reports
+               <p-card>• Building tools for the implementation of [TOP guidelines](https://www.cos.io/initiatives/top-guidelines) in academic journals </p-card>
+               
+               <p-card> • Conducting meta-scientific research for TOP guidelines and Registered Reports</p-card>
         - title: Postdoctoral Research Fellow (ESRC)
           company: CUBRIC, Cardiff University
-          company_url: ''
-          location: UK
           date_start: '2020-10-01'
           date_end: '2021-09-01'
           description:  |2-
-              ESRC Postdoctoral fellowship [Reproducibility in health intervention research and beyond: addressing the challenges and developing innovative solutions](https://gtr.ukri.org/projects?ref=ES%2FV011030%2F1#/tabOverview) (£126,071)
+               <p-card> ESRC Postdoctoral fellowship [Reproducibility in health intervention research and beyond: addressing the challenges and developing innovative solutions](https://gtr.ukri.org/projects?ref=ES%2FV011030%2F1#/tabOverview) (£126,071) </p>
         - title: Postdoctoral Researcher
           company: CUBRIC, Cardiff University
-          company_url: ''
-          location: UK
           date_start: '2019-11-01'
           date_end: '2020-09-01'
         - title: Research Assistant (Part-time)
           company: CUBRIC, Cardiff University
-          company_url: ''
-          location: UK
           date_start: '2019-11-01'
           date_end: '2020-09-01'
           description: |2-
-              Contributed to the database for the [Restrain app](https://www.cardiff.ac.uk/cardiff-cognition-and-neurostimulation-group/restrain-app)
+               <p-card> Contributed to the database for the [Restrain app](https://www.cardiff.ac.uk/cardiff-cognition-and-neurostimulation-group/restrain-app) </p>
     design:
       columns: '2'
   - block: Accomplishments

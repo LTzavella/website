@@ -24,27 +24,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 📚 My research interests include experimental psychology, cognitive neuroscience, implicit cognition, reproducibility and metascience.
 
-# Interests to show in About widget
-interests:
-  - 📖 Reproducibility & Metascience
-  - 🍎 Dietary behaviour change 
-  - 📝 Implicit cognition measures 
-  - 🖥️ Experimental Psychology
-  - 🧠 Cognitive Neuroscience
-
-# Education to show in About widget
-education:
-  courses:
-    - course: PhD in Psychology
-      institution: Cardiff University
-      year: 2019
-    - course: MSc in Neuroimaging Methods & Applications
-      institution: Cardiff University
-      year: 2014
-    - course: BSc in Psychology
-      institution: Nottingham Trent University
-      year: 2013
-
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -106,7 +85,7 @@ highlight_name: true
 }
 </style>
 
-<div class="row">
+<div class="row" style="width:100%">
    <img src="avatar.jpg" style="border-radius: 50%; width: 50%; height: auto%; overflow: hidden; float: center">
 
    <br></br>

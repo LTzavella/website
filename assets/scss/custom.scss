@@ -21,6 +21,10 @@
     color: white;
 }
 
+.dark .card {
+    background: hwb(307 18% 71%);
+}
+
 .wg-features .home-section-bg {
     background: #4a0f46;
     opacity: 69%;
@@ -33,6 +37,17 @@
 }
 
 /* Font sizes */
+#profile {
+    width: 100% !important;
+    max-width: 100% !important;
+    padding: 5pt !important;
+}
+
+#about {
+    width: 80% !important;
+    max-width: 100% !important;
+    padding: 5pt !important;
+}
 
 ul {
 font-size: large;
