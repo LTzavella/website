@@ -73,8 +73,8 @@ highlight_name: true
 .column {
   float: left;
   width: 50%;
-  padding: 1px;
-  margin: 0 auto;
+  padding: 30px;
+  margin: auto;
 }
 
 /* Clear floats after the columns */
@@ -84,33 +84,29 @@ highlight_name: true
   clear: both;
 }
 </style>
-
-<div class="row" style="width:100%">
-   <img src="avatar.jpg" style="border-radius: 50%; width: 50%; height: auto%; overflow: hidden; float: center">
-
-   <br></br>
-
-</div>
-<div class="row">
-  <div class="column">
-
+   <img src="avatar.jpg" style="border-radius: 50%; width: 40%; height: auto%; float: center">
+   
   <h2><b> Biography </b> </h2>
+  <br>
+   <p align= "justify">Dr Loukia Tzavella is a Postdoctoral Research Associate in Metascience at the School of Psychology, Cardiff University.</p> 
 
-
-  <p align= "justify">Dr Loukia Tzavella is a Postdoctoral Research Associate in Metascience at the School of Psychology, Cardiff University.</p> 
-
-  <p align= "justify">Her doctoral work focused on response inhibition training for dietary behaviour change, including paradigm development, proof-of-concept experiments and methodological assessments of implicit cognition measures that can be used to measure training outcomes. </p> 
+  <p align= "justify">Her doctoral work focused on response inhibition training for dietary behaviour change, including paradigm development, proof-of-concept experiments and online studies. Research studies further assess the validity of implicit cognition measures, such as the affective priming paradigm.</p>
 
   <p align= "justify">Current projects focus on the promotion, evaluation and implementation of open science practices and related initiatives, such as the Transparency and Promotion Openess (<a href="https://www.cos.io/initiatives/top-guidelines">TOP</a>) guidelines and Registered Reports (<a href="https://www.cos.io/initiatives/registered-reports">RRs</a>). </p>
-  </div>
 
-<div class="column">
-  <h2><b> Education </b> </h2>
+<div class="row">
+  <div class="column">
+<h2><b> Education </b> </h2>
   <ul>
   🔹 PhD Psychology - Cardiff University (2019) <br>
   🔹 MSc Neuroimaging Methods & Applications - Cardiff University (2014) <br>
   🔹 BSc Psychology - Nottingham Trent University (2013)
   </ul>
+  
+  </div>
+
+<div class="column">
+  
 <h2><b> Interests </b> </h2>
 <ul>
 📖 Reproducibility & Metascience <br> 
@@ -118,7 +114,6 @@ highlight_name: true
 📝 Implicit cognition measures <br>
 🖥️ Experimental Psychology <br>
 🧠 Cognitive Neuroscience <br>
-📊 Data Science using R
 </ul>
   </div>
 </div>

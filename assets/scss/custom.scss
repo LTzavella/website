@@ -22,7 +22,7 @@
 }
 
 .dark .card {
-    background: hwb(307 18% 71%);
+    background: #212121;
 }
 
 .wg-features .home-section-bg {
@@ -38,15 +38,22 @@
 
 /* Font sizes */
 #profile {
-    width: 100% !important;
+    width: 90% !important;
     max-width: 100% !important;
     padding: 5pt !important;
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    align-items: center;
+    top: 50%;
+    left: 0%;
+    right: 10%
 }
 
-#about {
-    width: 80% !important;
-    max-width: 100% !important;
-    padding: 5pt !important;
+.portrait-tile {
+    top: 30%;
+    left: 50%;
+    right: 60%
 }
 
 ul {
@@ -127,3 +134,7 @@ header {
     font-weight: 400;
 }
 
+.wg-about-avatar .bio-text {
+    max-width: 90%;
+    justify: center;
+}
