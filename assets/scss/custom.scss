@@ -1,3 +1,45 @@
+/* Page backgrounds */
+
+.home-section-bg  {
+    color: rgb(252, 228, 255);
+    background-color: #171321;   
+}
+
+.dark .navbar {
+    background: #171321
+}
+
+.article {
+    background: #171321
+}
+
+.page-body {
+    background: #171321
+}
+
+.fa-search {
+    color: white;
+}
+
+.wg-features .home-section-bg {
+    background: #4a0f46;
+    opacity: 69%;
+}
+
+/* Button and icon element colours */
+
+.fa-envelope.big-icon {
+    color: #d459ab;
+}
+
+/* Font sizes */
+
+ul {
+font-size: large;
+text-align: left;
+line-height: 2em;
+text-align: left;
+}
 .nav-link {
     font-size: large;
 }
@@ -15,7 +57,37 @@ p-card {
 }
 
 span {
-    font-size: medium;
+    font-size: 20px;
+    color: white;
+}
+
+.dark .navbar-brand {
+    color: white;
+}
+
+.dark a {
+    color: #04D2FF
+}
+
+a.summary-link {
+    color: white;
+}
+
+.ai{
+    color: #d459ab;
+}
+
+.fab {
+    color: #d459ab;
+}
+
+.fa {
+    color: #d459ab;
+}
+
+.btn-outline-primary {
+    color: #d459ab;
+    border-color:#d459ab;
 }
 
 .card-subtitle {
@@ -29,3 +101,14 @@ span {
 .text-muted {
     font-size: 13pt;
 }
+
+header {
+  border-bottom: 4px solid #d3349e;
+  margin: 0;
+}
+
+.navbar-collapse, .main-menu-item, .collapse, .justify-content-center {
+    font-size: x-large;
+    font-weight: 400;
+}
+

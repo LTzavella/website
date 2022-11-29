@@ -6,8 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day: strawberry
-  theme_night: dark
+  theme_night: cyberpunk
   font: minimal
   font_size: M
 
