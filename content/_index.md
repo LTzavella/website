@@ -179,16 +179,6 @@ sections:
       columns: '2'
       view: citation
   - block: collection
-    content:
-      title: Recent Blogposts
-      filters:
-        folders:
-          - blogposts
-        exclude_featured: false
-    design:
-      columns: '2'
-      view: citation     
-  - block: collection
     id: talks
     content:
       title: Recent & Upcoming Talks

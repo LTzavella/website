@@ -46,8 +46,16 @@
     margin-right: 10%;
     align-items: center;
     top: 50%;
-    left: 0%;
+    left: 10%;
     right: 10%
+}
+
+#about {
+    width: 80% !important;
+    max-width: 100% !important;
+    padding: 5pt !important;
+    left: 0%;
+
 }
 
 .portrait-tile {
@@ -87,12 +95,21 @@ span {
     color: white;
 }
 
-.dark a {
-    color: #04D2FF
+/*
+.dark a, .dark h3.article-title a:hover {
+    color: #d459ab !important;
+}*/
+
+.dark a, .dark h3.article-title a{
+    color: #d3349e !important;
 }
 
-a.summary-link {
+.dark a.summary-link {
     color: white;
+}
+
+.dark a, .dark h3.article-title a:hover {
+    color: white !important;
 }
 
 .ai{
@@ -105,6 +122,11 @@ a.summary-link {
 
 .fa {
     color: #d459ab;
+}
+
+.fas {
+    color: #d459ab;
+
 }
 
 .btn-outline-primary {
@@ -129,6 +151,24 @@ header {
   margin: 0;
 }
 
+.btn-outline-primary {
+    color: #d459ab;
+    border-color: #d459ab;
+    
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #d459ab;
+    border-color: #d459ab;
+}
+
+/*
+a.btn.btn-outline-primary.btn-page-header{
+    color: #fff;
+    background-color: #642d52;
+    border-color: #d459ab;
+}*/
 .navbar-collapse, .main-menu-item, .collapse, .justify-content-center {
     font-size: x-large;
     font-weight: 400;
@@ -136,5 +176,24 @@ header {
 
 .wg-about-avatar .bio-text {
     max-width: 90%;
-    justify: center;
+}
+
+.article-style {
+    color: white
+}
+
+.badge-pill {
+    background-color: #d459ab !important;
+}
+
+.experience .m-2 .border.exp-fill {
+    background-color: #d3349e !important;
+}
+
+.experience .m-2 .border {
+    border-color: #d3349e !important;
+}
+
+.experience .col.border-right {
+    border-color: #d3349e !important;
 }

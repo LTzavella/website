@@ -3,9 +3,9 @@
 
 title: Going for a Registered Report?
 subtitle: ''
-summary: ''
+summary: '<p card>Discussion with Candice Morey on Registered Reports</p>'
 authors:
-- Morey Candice
+- Morey C. Candice
 - admin
 
 tags:
@@ -14,10 +14,10 @@ tags:
 - Reproducibility
 - Early career researchers
 categories: []
-date: '2020-03-03'
-lastmod: 2022-11-24T17:20:14Z
+date: '2018-08-17'
 featured: false
 draft: false
+reading_time: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

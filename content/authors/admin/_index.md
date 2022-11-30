@@ -92,10 +92,10 @@ highlight_name: true
 
   <p align= "justify">Her doctoral work focused on response inhibition training for dietary behaviour change, including paradigm development, proof-of-concept experiments and online studies. Research studies further assess the validity of implicit cognition measures, such as the affective priming paradigm.</p>
 
-  <p align= "justify">Current projects focus on the promotion, evaluation and implementation of open science practices and related initiatives, such as the Transparency and Promotion Openess (<a href="https://www.cos.io/initiatives/top-guidelines">TOP</a>) guidelines and Registered Reports (<a href="https://www.cos.io/initiatives/registered-reports">RRs</a>). </p>
+  <p align= "justify">Current projects focus on the promotion, evaluation and implementation of open science practices and related initiatives, such as the Transparency and Promotion Openess (<a href="https://www.cos.io/initiatives/top-guidelines">TOP</a>) guidelines and Registered Reports (<a href="https://www.cos.io/initiatives/registered-reports">RRs</a>). <br></br></p>
 
-<div class="row">
-  <div class="column">
+<div class="row" style="max-width: 100%; margin-left:0%; margin-right: 0%; padding: 0pt; left: 0%;">
+  <div class="column" style="margin-left:0%; margin-right: 0%;padding: 0pt">
 <h2><b> Education </b> </h2>
   <ul>
   🔹 PhD Psychology - Cardiff University (2019) <br>
@@ -105,15 +105,14 @@ highlight_name: true
   
   </div>
 
-<div class="column">
+<div class="column" style="text-align: center; margin-left:0%; margin-right: 0%;  padding: 0pt">
   
 <h2><b> Interests </b> </h2>
-<ul>
-📖 Reproducibility & Metascience <br> 
-🍎 Dietary behaviour change <br>
-📝 Implicit cognition measures <br>
-🖥️ Experimental Psychology <br>
-🧠 Cognitive Neuroscience <br>
+<ul style="text-align: justify">
+📖 &nbsp Open science, reproducibility & metascience <br> 
+🍎 &nbsp Cognitive training for dietary behaviour change <br>
+🖥️ &nbsp Implicit cognition & measurement validity <br>
+🧠 &nbsp Cognitive neuroscience &  brain stimulation <br>
 </ul>
   </div>
 </div>
