@@ -6,7 +6,7 @@ event_url:
 
 location: UCL, London, UK
 
-summary: Presentation on the GW4 Consortium for reproducible undergraduate projects in psychology research https://journals.sagepub.com/doi/10.1177/1475725719857659 
+summary: Presentation on the GW4 Consortium for reproducible undergraduate projects in psychology research (also see (**this paper**)[https://journals.sagepub.com/doi/10.1177/1475725719857659]). 
 abstract: ''
 
 # Talk start and end times.
@@ -45,4 +45,4 @@ url_video: ''
 projects:
   - example
 ---
-<iframe src="https://onedrive.live.com/embed?resid=8DB7886CDA239A6%21111&amp;authkey=!ADg4fP6lghMLEfg&amp;em=2&amp;wdAr=1.7777777777777777&amp;wdEaaCheck=1" width="476px" height="288px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+<iframe src="https://onedrive.live.com/embed?resid=8DB7886CDA239A6%21111&amp;authkey=!ADg4fP6lghMLEfg&amp;em=2&amp;wdAr=1.7777777777777777&amp;wdEaaCheck=1" width="800px" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
