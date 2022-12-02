@@ -6,12 +6,12 @@ event_url: https://www.psychologicalscience.org/conventions/archive/2022-aps-ann
 
 location: Online
 
-summary: Invited speaker for the APS symposium on Registered Reports.
+summary: An app for implementing the Transparency and Openness Promotion (TOP) guidelines
 abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2020-09-08T13:00:00Z'
+date: '2020-09-08'
 # date_end: '2030-06-01T15:00:00Z'
 # all_day: false
 

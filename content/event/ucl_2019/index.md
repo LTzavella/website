@@ -1,18 +1,17 @@
 ---
-title: Session lead for ‘Improving Registered Reports for authors, reviewers and editors’
+title: Teaching reproducible science - UG Final Year Consortia Projects 
 
-event: Society for the Improvement of Psychological Science (SIPS) Annual Meeting
-event_url: https://docs.google.com/document/d/e/2PACX-1vSGIkhtdNoTURaeCkpCWrVS64md_U2cCXNape5nAa1cZOuz1vKGg66wblntTSiH6JtuS6FXDiu9PFm0/pub
+event: UCL Language & Cognition Seminar Series
+event_url: 
 
-location: Online
+location: UCL, London, UK
 
-summary: A summary of the session can be found in [**this post**](https://loukiatzavella.netlify.app/post/sips_summary/). 
+summary: Presentation on the GW4 Consortium for reproducible undergraduate projects in psychology research https://journals.sagepub.com/doi/10.1177/1475725719857659 
 abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2021-06-13T13:00:00Z'
-# date_end: '2030-06-01T15:00:00Z'
+date: '2019-03-13'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -28,9 +27,14 @@ image:
   caption: ''
   focal_point: smart
 
+links:
+  - icon: osf
+    icon_pack: ai
+    name: Poster
+    url: https://osf.io/rc3jv
 url_code: ''
 url_pdf: ''
-url_slides: ''
+url_slides: 'UG_Consortia_Projects_LT'
 url_video: ''
 
 # Projects (optional).

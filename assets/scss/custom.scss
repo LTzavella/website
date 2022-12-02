@@ -79,11 +79,11 @@ li {
 }
 
 p {
-    font-size: 14pt;
+    font-size: 13pt;
 }
 
 p-card {
-    font-size: 13pt;
+    font-size: 12pt;
 }
 
 span {
@@ -95,6 +95,9 @@ span {
     color: white;
 }
 
+.dark .btn-primary {
+    font-size: 12pt;
+}
 /*
 .dark a, .dark h3.article-title a:hover {
     color: #d459ab !important;
@@ -143,7 +146,7 @@ span {
 }
 
 .text-muted {
-    font-size: 13pt;
+    font-size: 12pt;
 }
 
 header {
@@ -161,6 +164,7 @@ header {
     color: #fff;
     background-color: #d459ab;
     border-color: #d459ab;
+    font-size: larger;
 }
 
 /*
@@ -196,4 +200,126 @@ a.btn.btn-outline-primary.btn-page-header{
 
 .experience .col.border-right {
     border-color: #d3349e !important;
+}
+
+.navbar .nav-item {
+    background-color: #171321;
+}
+
+.py-2 .exp-title {
+ font-size: larger;   
+ color: white
+}
+
+.exp-company {
+    font-size: 12pt;   
+
+}
+.dark .experience .text-muted {
+    font-size: 12pt;   
+
+}
+.navbar-expand-lg .navbar-collapse {
+    background-color: #171321;
+}
+
+.col-md-6 .btn-page-header {
+    font-size: 12pt;   
+}
+
+.view-card .btn-sm {
+    font-size: 12pt;   
+
+}
+
+.article-metadata .article-metadata .author-highlighted {
+    font-size: 12pt;   
+}
+
+.article-metadata .article-metadata div span {
+    font-size: 12pt;   
+
+}
+
+.article-metadata .article-metadata .article-date {
+    font-size: 12pt;   
+
+}
+
+.article-style {
+    font-size: 13pt;   
+}
+
+.view-card .article-date {
+    font-size: 13pt;   
+
+}
+.pub-publication em {
+    font-size: 13pt;   
+    color:rgb(252, 228, 255);
+}
+
+.view-citation .btn-sm {
+    font-size: 12pt;   
+
+}
+
+#talks .summary-link .article-style {
+    font-size: 13pt;   
+
+}
+
+#talks span {
+    font-size: 13pt;   
+ 
+}
+
+.middot-divider {
+    color:#d3349e;
+}
+
+#talks .btn-sm {
+    font-size: 12pt;   
+
+}
+
+.page-footer {
+ background-color: #4a0f46;   
+}
+
+footer .powered-by {
+    font-size: 11pt;   
+    color: rgb(219, 211, 211);}
+
+.li-cite-author .author-highlighted {
+    font-size: 13pt;   
+    
+}
+
+.li-cite-author span {
+    font-size: 13pt;   
+
+}
+
+.article-style .summary-link {
+    font-size: 13pt;   
+
+}
+
+.media-body .article-style {
+    font-size: 13pt;   
+    color: #04d2ff;
+}
+
+.media-body .article-style a{
+    font-size: 13pt;  
+    color: #04d2ff !important;
+}
+#posts .btn-sm {
+    font-size: 12pt;   
+ 
+}
+
+.view-citation {
+    color: #04d2ff
 }

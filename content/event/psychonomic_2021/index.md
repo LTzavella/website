@@ -1,17 +1,17 @@
 ---
-title: Discussion session VI - Frontiers in Meta-Science
+title: Explicit and Implicit Devaluation Effects of Food-Specific Response Inhibition Training 
 
-event: Open Research Working Group (ORWG) virtual meeting
-event_url: https://www.psychologicalscience.org/conventions/archive/2022-aps-annual-convention-3
+event: Psychonomic Society's 62nd Annual Meeting
+event_url: https://www.psychonomic.org/page/2021annualmeeting
 
-location: Virtual meeting
+location: Online
 
-summary: Invited speaker for the APS symposium on Registered Reports.
+summary: Summary of two experiments demonstrating the devaluation effects of response inhibition training for selected foods using both explicit (self-reported liking) and implicit measures (affective priming paradigm).
 abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2020-09-08T13:00:00Z'
+date: '2021-11-05'
 # date_end: '2030-06-01T15:00:00Z'
 all_day: true
 
@@ -31,12 +31,8 @@ image:
 links:
   - icon: osf
     icon_pack: ai
-    name: UK-ORWG
-    url: https://osf.io/vgt3x/
-  - icon: youtube
-    icon_pack: fab
-    name: Recording
-    url: https://www.youtube.com/watch?v=YP6sKV0dkoA
+    name: Poster
+    url: https://osf.io/vs6nq
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -50,3 +46,5 @@ url_video: ''
 projects:
   - example
 ---
+
+![Poster preview](poster.svg "Poster preview")
