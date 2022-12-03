@@ -188,22 +188,22 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
+#  - block: features
+ #   content:
+  #    title: Skills
+   #   items:
+    #    - name: R
+     #     description: Data preprocessing, visualisation and quantitative analyses
+      #    icon: r-project
+       #   icon_pack: fab
+        #- name: Statistics
+         # description: 100%
+          #icon: chart-line
+          #icon_pack: fas
+        #- name: Photography
+         # description: 10%
+          #icon: camera-retro
+          #icon_pack: fas
   - block: tag_cloud
     content:
       title: Popular Topics
