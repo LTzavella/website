@@ -10,7 +10,6 @@ authors:
 tags: []
 categories: []
 date: '2022-12-01'
-lastmod: 2022-11-24T17:20:15Z
 featured: false
 draft: false
 
@@ -28,7 +27,6 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-24T17:20:15.442057Z'
 publication_types:
 - '2'
 abstract: The overvaluation of energy-dense foods is a key contributor to unhealthy

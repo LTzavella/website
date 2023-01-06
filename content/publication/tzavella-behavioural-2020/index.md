@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '2020-01-01'
-lastmod: 2022-11-24T17:20:13Z
+lastmod: 2020-01-27T17:20:13Z
 featured: false
 draft: false
 
@@ -28,7 +28,6 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-24T17:20:13.699474Z'
 publication_types:
 - '7'
 abstract: The rise in overweight and obesity rates over the past decades can primarily

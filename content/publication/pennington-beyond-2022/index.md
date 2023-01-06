@@ -21,7 +21,6 @@ tags:
 - Teams
 categories: []
 date: '2022-01-01'
-lastmod: 2022-11-24T17:20:14Z
 featured: false
 draft: false
 

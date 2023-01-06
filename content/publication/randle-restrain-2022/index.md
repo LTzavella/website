@@ -14,7 +14,7 @@ authors:
 - Christopher D. Chambers
 tags: []
 categories: []
-date: '2022-11-01'
+date: '2022-11-23'
 lastmod: 2022-11-24T17:20:15Z
 featured: false
 draft: false
@@ -33,7 +33,6 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-24T17:20:15.282626Z'
 publication_types:
 - '2'
 abstract: Studies of food-related behaviours often involve measuring responses to

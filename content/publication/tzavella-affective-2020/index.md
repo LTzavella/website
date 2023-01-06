@@ -17,7 +17,6 @@ authors:
 tags: []
 categories: []
 date: '2020-12-01'
-lastmod: 2022-11-24T17:20:14Z
 featured: true
 draft: false
 
