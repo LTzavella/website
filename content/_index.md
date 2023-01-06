@@ -64,7 +64,7 @@ sections:
                <p-card> Contributed to the database for the [Restrain app](https://www.cardiff.ac.uk/cardiff-cognition-and-neurostimulation-group/restrain-app) </p>
     design:
       columns: '2'
-  - block: Skills
+  - block: Accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Skills & Training'
@@ -83,6 +83,7 @@ sections:
           title: English as an Additional Language (EAL) support assistant
           url: ''
         - date_start: '2015-05-01'
+          organization: ' '
           title: Coding & Software
           description: |2-
                <p-card> 
