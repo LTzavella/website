@@ -14,8 +14,7 @@ tags:
 - Publishing
 - Reproducibility
 categories: []
-date: '2022-01-01'
-lastmod: 2022-11-24T17:20:14Z
+date: '2021-11-15'
 featured: true
 draft: false
 
@@ -29,7 +28,6 @@ draft: false
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-24T17:20:14.460646Z'
 publication_types:
 - '2'
 abstract: Registered Reports are a form of empirical publication in which study proposals
