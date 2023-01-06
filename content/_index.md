@@ -67,8 +67,8 @@ sections:
   - block: Accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Service & Internships'
-      subtitle:
+      title: 'Skills & Training'
+      subtitle: Test 1
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
       # Accomplishments.
@@ -87,20 +87,14 @@ sections:
           organization: NewLink Wales
           organization_url: https://platfform.org/projects/newlinkwales/
           title: Market Research Internship (WCVA Explore Internship Programme)
-        - date_end: '2015-08-01'
-          date_start: '2015-05-01'
-          organization: Horn Development Association
-          organization_url: https://www.hdacardiff.org/
-          title: Market Research Internship (WCVA Explore Internship Programme)
-        - date_end: '2015-02-01'
-          date_start: '2014-11-01'
-          organization: Cardiff University 
-          title: iSolve Researcher - Research and SWOT Analysis for [Brain Train](http://www.braintrainproject.eu/) project
-        - date_end: '2010-08-02'
-          date_start: '2008-02-02'
-          organization: Recovery & Rehabilitation Centre for Children, Greece
-          organization_url: http://www.kkppa.gr/?page_id=169
-          title: Volunteer
+        subtitle: Test 2
+         items:
+        - date_end: '2018-07-01'
+          date_start: '2018-04-01'
+          organization: Radnor Primary School, Cardiff, UK
+          title: English as an Additional Language (EAL) support assistant
+          url: ''
+ 
     design:
       columns: '2'
   - block: collection
