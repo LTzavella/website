@@ -82,17 +82,19 @@ sections:
           organization: Radnor Primary School, Cardiff, UK
           title: English as an Additional Language (EAL) support assistant
           url: ''
-        - date_start: '2015-05-01'
+        - date_start: ' '
           organization: ' '
           title: Coding & Software
           description: |2-
-               <p-card> 
-               -R/RStudio and development of Shiny apps
-               -RMarkdown documents & LaTex integration
-               -HTML & CSS design
-               -Programming experiments in Inquisit (Millisecond Software)
-               -Statistical analyses in R (primary choice), JASP, jamovi, SPSS
-               -Database building and management in Excel / Google Sheets </p>
+               <ul> 
+
+               <li>-R/RStudio and development of Shiny apps </li>
+               <li>-RMarkdown documents & LaTex integration </li>
+               <li>-HTML & CSS design </li>
+               <li>-Programming experiments in Inquisit (Millisecond Software) </li>
+               <li>-Statistical analyses in R (primary choice), JASP, jamovi, SPSS </li>
+               <li>-Database building and management in Excel / Google Sheets </li>
+               </ul>
         
     design:
       columns: '2'
