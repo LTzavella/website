@@ -34,8 +34,7 @@ tags:
 - Teaching Methods
 - Training
 categories: []
-date: '2021-01-01'
-lastmod: 2022-11-24T17:20:15Z
+date: '2021-12-23'
 featured: false
 draft: false
 
@@ -53,7 +52,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-24T17:20:14.954330Z'
+publishDate: '2021-12-23T17:20:14.954330Z'
 publication_types:
 - '2'
 abstract: Recently, there has been a growing emphasis on embedding open and reproducible

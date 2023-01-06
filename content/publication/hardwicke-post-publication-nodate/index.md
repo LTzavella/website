@@ -22,8 +22,7 @@ tags:
 - post-publication critique
 - scientific criticism
 categories: []
-date: -01-01
-lastmod: 2022-11-24T17:20:14Z
+date: 24-08-2022
 featured: false
 draft: false
 
