@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Loukia Tzavella
+title: Dr Loukia Tzavella
 
 # Full name (for SEO)
 first_name: Loukia  
@@ -88,9 +88,9 @@ highlight_name: true
    
   <h2><b> Biography </b> </h2>
   <br>
-   <p align= "justify">Dr Loukia Tzavella is a Postdoctoral Research Associate in Metascience at the School of Psychology, Cardiff University.</p> 
+   <p align= "justify">I am currently a Postdoctoral Research Associate in Metascience at the School of Psychology, Cardiff University.</p> 
 
-  <p align= "justify">Her doctoral work focused on response inhibition training for dietary behaviour change, including paradigm development, proof-of-concept experiments and online studies. Research studies further assess the validity of implicit cognition measures, such as the affective priming paradigm.</p>
+  <p align= "justify">My doctoral work focused on response inhibition training for dietary behaviour change, including paradigm development, proof-of-concept experiments and online studies. Research studies further assess the validity of implicit cognition measures, such as the affective priming paradigm.</p>
 
   <p align= "justify">Current projects focus on the promotion, evaluation and implementation of open science practices and related initiatives, such as the Transparency and Promotion Openess (<a href="https://www.cos.io/initiatives/top-guidelines">TOP</a>) guidelines and Registered Reports (<a href="https://www.cos.io/initiatives/registered-reports">RRs</a>). <br></br></p>
 
