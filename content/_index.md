@@ -86,15 +86,10 @@ sections:
           date_start: '2015-05-01'
           organization: NewLink Wales
           organization_url: https://platfform.org/projects/newlinkwales/
-          title: Market Research Internship (WCVA Explore Internship Programme)
-        subtitle: Test 2
-         items:
-        - date_end: '2018-07-01'
-          date_start: '2018-04-01'
-          organization: Radnor Primary School, Cardiff, UK
-          title: English as an Additional Language (EAL) support assistant
-          url: ''
- 
+          title: coding
+          description: |2-
+               <p-card> Contributed to the database for the [Restrain app](https://www.cardiff.ac.uk/cardiff-cognition-and-neurostimulation-group/restrain-app) </p>
+        
     design:
       columns: '2'
   - block: collection
