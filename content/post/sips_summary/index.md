@@ -22,6 +22,7 @@ categories: []
 date: 2021-06-30
 featured: false
 draft: false
+lastmod: 2021-06-30
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
