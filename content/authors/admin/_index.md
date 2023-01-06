@@ -88,7 +88,7 @@ highlight_name: true
    
   <h2><b> Biography </b> </h2>
   <br>
-   <p align= "justify">Hi 👋 I am Dr Loukia Tzavella and currently work as a Postdoctoral Research Associate in Metascience at the School of Psychology, Cardiff University.</p> 
+   <p align= "justify">I currently work as a Postdoctoral Research Associate in Metascience at the School of Psychology, Cardiff University.</p> 
 
   <p align= "justify">My doctoral work focused on response inhibition training for dietary behaviour change, including paradigm development, proof-of-concept experiments and online studies. Research studies further assess the validity of implicit cognition measures, such as the affective priming paradigm.</p>
 
