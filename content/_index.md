@@ -82,13 +82,15 @@ sections:
           organization: Radnor Primary School, Cardiff, UK
           title: English as an Additional Language (EAL) support assistant
           url: ''
-        - date_end: '2015-08-01'
-          date_start: '2015-05-01'
-          organization: NewLink Wales
-          organization_url: https://platfform.org/projects/newlinkwales/
-          title: coding
+        - title: Coding & Software
           description: |2-
-               <p-card> Contributed to the database for the [Restrain app](https://www.cardiff.ac.uk/cardiff-cognition-and-neurostimulation-group/restrain-app) </p>
+               <p-card> 
+               -R/RStudio and development of Shiny apps
+               -RMarkdown documents & LaTex integration
+               -HTML & CSS design
+               -Programming experiments in Inquisit (Millisecond Software)
+               -Statistical analyses in R (primary choice), JASP, jamovi, SPSS
+               -Database building and management in Excel / Google Sheets </p>
         
     design:
       columns: '2'
