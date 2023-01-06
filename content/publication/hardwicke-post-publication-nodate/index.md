@@ -22,7 +22,7 @@ tags:
 - post-publication critique
 - scientific criticism
 categories: []
-date: 24-08-2022
+date: 2022-08-24
 featured: false
 draft: false
 
@@ -40,7 +40,6 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-24T17:20:14.626096Z'
 publication_types:
 - '2'
 abstract: 'Journals exert considerable control over letters, commentaries and online

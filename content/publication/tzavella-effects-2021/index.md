@@ -26,7 +26,7 @@ tags:
 - go/no-go training
 - liking
 categories: []
-date: '2021-01-01'
+date: '2021-08-25'
 featured: false
 draft: false
 
@@ -44,7 +44,6 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-24T17:20:14.295650Z'
 publication_types:
 - '2'
 abstract: 'Inhibitory control training effects on behaviour (e.g. ‘healthier’ food

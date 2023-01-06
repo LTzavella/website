@@ -16,7 +16,7 @@ authors:
 - Christopher D. Chambers
 tags: []
 categories: []
-date: '2020-12-01'
+date: '2020-06-30'
 featured: true
 draft: false
 
@@ -35,7 +35,6 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-24T17:20:14.126110Z'
 publication_types:
 - '2'
 abstract: In this Registered Report, we assessed the utility of the affective priming
