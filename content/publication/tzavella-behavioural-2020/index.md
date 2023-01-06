@@ -9,8 +9,7 @@ authors:
 - admin
 tags: []
 categories: []
-date: '2020-01-01'
-lastmod: 2020-01-27T17:20:13Z
+date: '2020-01-27'
 featured: false
 draft: false
 

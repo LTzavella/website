@@ -29,7 +29,6 @@ reading_time: false
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2019-10-10'
 publication_types:
 - '0'
 

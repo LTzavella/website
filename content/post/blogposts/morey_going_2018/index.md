@@ -28,8 +28,6 @@ reading_time: false
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ["Metascience & Reproducibility"]
-publishDate: '2022-11-24T17:20:14.460646Z'
 publication_types:
 - '0'
 
