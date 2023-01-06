@@ -64,41 +64,7 @@ sections:
                <p-card> Contributed to the database for the [Restrain app](https://www.cardiff.ac.uk/cardiff-cognition-and-neurostimulation-group/restrain-app) </p>
     design:
       columns: '2'
-  - block: Accomplishments
-    content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Skills & Training'
-      subtitle: Test 1
-      # Date format: https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - date_end: '2018-07-01'
-          date_start: '2018-04-01'
-          organization: Radnor Primary School, Cardiff, UK
-          title: English as an Additional Language (EAL) support assistant
-          url: ''
-        - date_start: '2018-07-01'
-          organization: ' '
-          title: Coding & Software
-          description: |2-
-               <ul> 
-
-               <li>-R/RStudio and development of Shiny apps </li>
-               <li>-RMarkdown documents & LaTex integration </li>
-               <li>-HTML & CSS design </li>
-               <li>-Programming experiments in Inquisit (Millisecond Software) </li>
-               <li>-Statistical analyses in R (primary choice), JASP, jamovi, SPSS </li>
-               <li>-Database building and management in Excel / Google Sheets </li>
-               </ul>
-        
-    design:
-      columns: '2'
-  - block: collection
+    - block: collection
     id: posts
     content:
       title: Recent Posts
