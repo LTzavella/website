@@ -64,7 +64,7 @@ sections:
                <p-card> Contributed to the database for the [Restrain app](https://www.cardiff.ac.uk/cardiff-cognition-and-neurostimulation-group/restrain-app) </p>
     design:
       columns: '2'
-    - block: collection
+  - block: collection
     id: posts
     content:
       title: Recent Posts
