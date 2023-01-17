@@ -59,6 +59,8 @@ links:
   icon_pack: ai
   name: Data & analysis scripts
   url: https://osf.io/wsqyn/
-- name: Preregistered protocol
+- icon: preregistered
+  icon_pack: ai
+  name: Preregistered protocol
   url: https://osf.io/m85sr/
 ---

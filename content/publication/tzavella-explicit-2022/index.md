@@ -31,7 +31,7 @@ projects: []
 publication_types:
 - '2'
 abstract: 
-publication: 'Journal of Cognition'
+publication: '*Journal of Cognition*'
 doi: 10.5334/joc.256
 links:
 - name: URL
@@ -48,8 +48,12 @@ links:
   icon_pack: ai
   name: Research materials
   url: https://osf.io/u36nd/
-- name: Preregistered protocol for Experiment 1
+- icon: preregistered
+  icon_pack: ai
+  name: Preregistered protocol for Experiment 1
   url: https://osf.io/c6z53
-- name: Preregistered protocol for Experiment 2
+- icon: preregistered
+  icon_pack: ai
+  name: Preregistered protocol for Experiment 2
   url: https://osf.io/p6yk9
 ---
