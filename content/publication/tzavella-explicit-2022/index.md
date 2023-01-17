@@ -4,7 +4,7 @@
 title: Explicit and implicit devaluation effects of food-specific response inhibition
   training
 subtitle: ''
-summary: ''
+summary: 'Latest publication on food training-induced devaluation effects using both explicit and implicit measures.'
 authors:
 - admin
 - Christopher D Chambers
