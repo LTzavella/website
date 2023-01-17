@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2023-01-17'
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -30,30 +30,7 @@ image:
 projects: []
 publication_types:
 - '2'
-abstract: The overvaluation of reward-associated stimuli such as energy-dense foods
-  can drive compulsive eating behaviours, including overeating. Previous research
-  has shown that training individuals to inhibit their responses towards appetitive
-  stimuli can lead to their devaluation, providing a potential avenue for behaviour
-  change. Over two preregistered experiments, we investigated whether training participants
-  to inhibit their responses to specific foods would be effective in reducing their
-  evaluations when these were assessed using both explicit and implicit measures.
-  Participants completed an online session of go/no-go training with energy-dense
-  foods that were consistently associated with either responding (go) or inhibiting
-  a response (no-go). An ‘explicit’ devaluation effect was expected as a reduction
-  in self-reported liking from pre-to post-training for no-go items compared to both
-  go items and foods that were not presented during training (untrained items). An
-  ‘implicit’ devaluation effect was then measured using the affective priming paradigm,
-  by comparing differences in reaction times for congruent and incongruent trials
-  (i.e., priming effects) between food primes. Experiment 1 revealed conclusive evidence
-  for small-to-medium devaluation effects both in terms of explicit ratings and priming
-  effects. We also observed that the priming effect for no-go items was close to zero.
-  Experiment 2 successfully replicated most of the preregistered and exploratory outcomes
-  from Experiment 1 except for the priming effect for untrained items. Potential explanations
-  for this discrepancy are discussed but overall, these findings provide further support
-  for a devaluation effect of response inhibition training. To our knowledge, our
-  study provides the first evidence that training-induced devaluation can be captured
-  by affective priming measures, motivating future work to further elucidate the mechanisms
-  of action underlying devaluation effects.
+abstract: The overvaluation of reward-associated stimuli such as energy-dense foods can drive compulsive eating behaviours, including overeating. Previous research has shown that training individuals to inhibit their responses towards appetitive stimuli can lead to their devaluation, providing a potential avenue for behaviour change. Over two preregistered experiments, we investigated whether training participants to inhibit their responses to specific foods would be effective in reducing their evaluations when these were assessed using both explicit and implicit measures. Participants completed an online session of go/no-go training with energy-dense foods that were consistently associated with either responding (go) or inhibiting a response (no-go). An ‘explicit’ devaluation effect was expected as a reduction in self-reported liking from pre-to post-training for no-go items compared to both go items and foods that were not presented during training (untrained items). An ‘implicit’ devaluation effect was then measured using the affective priming paradigm, by comparing differences in reaction times for congruent and incongruent trials (i.e., priming effects) between food primes. Experiment 1 revealed conclusive evidence for small-to-medium devaluation effects both in terms of explicit ratings and priming effects. We also observed that the priming effect for no-go items was close to zero. Experiment 2 successfully replicated most of the preregistered and exploratory outcomes from Experiment 1 except for the priming effect for untrained items. Potential explanations for this discrepancy are discussed but overall, these findings provide further support for a devaluation effect of response inhibition training. To our knowledge, our study provides the first evidence that training-induced devaluation can potentially be captured by affective priming measures, but more research is needed to further assess their sensitivity before they can be used to elucidate the mechanisms of action underlying devaluation effects.
 publication: 'Journal of Cognition'
 doi: 10.5334/joc.256
 links:
