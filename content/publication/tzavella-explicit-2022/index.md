@@ -10,7 +10,7 @@ authors:
 - Christopher D Chambers
 tags: []
 categories: []
-date: '2022-05-01'
+date: '2023-01-17'
 featured: false
 draft: false
 
@@ -28,7 +28,6 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-24T17:20:15.120048Z'
 publication_types:
 - '4'
 abstract: The overvaluation of reward-associated stimuli such as energy-dense foods
