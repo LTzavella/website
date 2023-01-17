@@ -70,6 +70,8 @@ links:
   icon_pack: ai
   name: Research materials
   url: https://osf.io/sjcx7
-- name: Stage 1 RR protocol
+- icon: preregistered
+  icon_pack: ai
+  name: Stage 1 RR protocol
   url: https://osf.io/y2tus
 ---
