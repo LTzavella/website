@@ -29,7 +29,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publication_types:
-- '4'
+- '2'
 abstract: The overvaluation of reward-associated stimuli such as energy-dense foods
   can drive compulsive eating behaviours, including overeating. Previous research
   has shown that training individuals to inhibit their responses towards appetitive
@@ -54,11 +54,15 @@ abstract: The overvaluation of reward-associated stimuli such as energy-dense fo
   study provides the first evidence that training-induced devaluation can be captured
   by affective priming measures, motivating future work to further elucidate the mechanisms
   of action underlying devaluation effects.
-publication: ''
-doi: 10.31234/osf.io/jkb3v
+publication: 'Journal of Cognition'
+doi: 10.5334/joc.256
 links:
 - name: URL
-  url: https://osf.io/jkb3v
+  url: https://www.journalofcognition.org/articles/10.5334/joc.256/#
+- icon: psyarxiv
+  icon_pack: ai
+  name: Preprint
+  url: https://osf.io/u36nd/
 - icon: open-data
   icon_pack: ai
   name: Data & analysis scripts
