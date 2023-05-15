@@ -47,4 +47,4 @@ url_video: ''
 projects:
   - example
 ---
-![Poster preview](poster.pdf "Poster preview")
+![Poster preview](poster.svg "Poster preview")
