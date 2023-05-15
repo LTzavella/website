@@ -14,14 +14,13 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Research Associate
+role: Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: CUBRIC, Cardiff University
-    url: https://www.cardiff.ac.uk/cardiff-university-brain-research-imaging-centre
   - name: Institute of Population Health, University of Liverpool
     url: https://www.liverpool.ac.uk/population-health/
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: 📚 My research interests include experimental psychology, cognitive neuroscience, implicit cognition, reproducibility and metascience.

@@ -36,12 +36,22 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Postdoctoral Research Associate
+        - title: Tenure Track Fellow
+          company: School of Psychology, University of Liverpool
+          date_start: '2023-04-03'
+          date_end: ''
+          description: |2-
+          <p-card>• Designing and testing population-level interventions with a focus on nutrition-related health (proof-of-concept and semi-naturalistic experiments)</p-card>
+          <p-card>• Reviewing and evaluating public policy associated with diet and obesity with attention to current health inequalities</p-card>
+          <p-card>• Teaching and project supervision for BSc (Hons) Psychology </p-card>
+
+        - title: Postdoctoral Research Associate 
           company: CUBRIC, Cardiff University
           date_start: '2021-10-01'
           date_end: ''
           description: |2-
-              <p-card>Metascience projects:</p-card>
+          
+              <p-card>Metascience projects (Part-time since April 2023):</p-card>
         
                <p-card>• Building tools for the implementation of [TOP guidelines](https://www.cos.io/initiatives/top-guidelines) in academic journals </p-card>
                
