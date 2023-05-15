@@ -40,6 +40,9 @@ sections:
           company: Institute of Population Health, University of Liverpool
           date_start: '2023-04-03'
           date_end: ''
+          description: |2-
+          
+              <p-card>• Designing and testing population-level interventions with a focus on nutrition-related health (proof-of-concept and semi-naturalistic experiments)</p-card>
 
         - title: Postdoctoral Research Associate 
           company: CUBRIC, Cardiff University
