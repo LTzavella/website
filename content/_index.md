@@ -42,8 +42,8 @@ sections:
           date_end: ''
           description: |2-
           
-              <p-card>• Designing and testing population-level interventions with a focus on nutrition-related health (proof-of-concept and semi-naturalistic experiments)</p-card>
-
+              <p-card>• Designing and testing population-level interventions with a focus on nutrition-related health (proof-of-concept and semi-naturalistic experiments)</p-card>              <p-card>• Reviewing and evaluating public policy associated with diet and obesity with attention to current health inequalities</p-card>
+              <p-card>• • Teaching and project supervision for BSc (Hons) Psychology</p-card>
         - title: Postdoctoral Research Associate 
           company: CUBRIC, Cardiff University
           date_start: '2021-10-01'
