@@ -20,6 +20,8 @@ role: Postdoctoral Research Associate
 organizations:
   - name: CUBRIC, Cardiff University
     url: https://www.cardiff.ac.uk/cardiff-university-brain-research-imaging-centre
+  - name: Institute of Population Health, University of Liverpool
+    url: https://www.liverpool.ac.uk/population-health/
 
 # Short bio (displayed in user profile at end of posts)
 bio: 📚 My research interests include experimental psychology, cognitive neuroscience, implicit cognition, reproducibility and metascience.
@@ -88,11 +90,11 @@ highlight_name: true
    
   <h2><b> Biography </b> </h2>
   <br>
-   <p align= "justify">I currently work as a Postdoctoral Research Associate in Metascience at the School of Psychology, Cardiff University.</p> 
-
+   <p align= "justify">I currently work at the University of Liverpool as a Fellow and my research involves designing and testing population-level interventions that address health inequalities in diet and nutrition. </p>
+   
+   <p align= "justify">My part-time work with Cardiff University focuses on the promotion, evaluation and implementation of open science practices and related initiatives, such as the Transparency and Promotion Openness (<a href="https://www.cos.io/initiatives/top-guidelines">TOP</a>) guidelines and Registered Reports (<a href="https://www.cos.io/initiatives/registered-reports">RRs</a>).</p>
+   
   <p align= "justify">My doctoral work focused on response inhibition training for dietary behaviour change, including paradigm development, proof-of-concept experiments and online studies. Research studies further assess the validity of implicit cognition measures, such as the affective priming paradigm.</p>
-
-  <p align= "justify">Current projects focus on the promotion, evaluation and implementation of open science practices and related initiatives, such as the Transparency and Promotion Openness (<a href="https://www.cos.io/initiatives/top-guidelines">TOP</a>) guidelines and Registered Reports (<a href="https://www.cos.io/initiatives/registered-reports">RRs</a>). <br></br></p>
 
 <div class="row" style="max-width: 100%; margin-left:0%; margin-right: 0%; padding: 0pt;">
   <div class="column" style="margin-left:0%; margin-right: 0%;padding: 0pt;">
@@ -109,10 +111,10 @@ highlight_name: true
   
 <h2><b> Interests </b> </h2>
 <ul style="text-align: left">
+🧑‍🤝‍🧑 &nbsp Population interventions, health equity & public policy <br>
 📖 &nbsp Open science, reproducibility & metascience <br> 
-🍎 &nbsp Cognitive training for dietary behaviour change <br>
+🧠 &nbsp Cognitive training for dietary behaviour change <br>
 🖥️ &nbsp Implicit cognition & measurement validity <br>
-🧠 &nbsp Cognitive neuroscience &  brain stimulation <br>
 </ul>
   </div>
 </div>
