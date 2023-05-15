@@ -37,15 +37,14 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Tenure Track Fellow
-          company: School of Psychology, University of Liverpool
+          company: Institute of Population Health, University of Liverpool
           date_start: '2023-04-03'
           date_end: ''
           description: |2-
-          
+
           <p-card>• Designing and testing population-level interventions with a focus on nutrition-related health (proof-of-concept and semi-naturalistic experiments)</p-card>
           <p-card>• Reviewing and evaluating public policy associated with diet and obesity with attention to current health inequalities</p-card>
           <p-card>• Teaching and project supervision for BSc (Hons) Psychology </p-card>
-
         - title: Postdoctoral Research Associate 
           company: CUBRIC, Cardiff University
           date_start: '2021-10-01'
@@ -160,13 +159,13 @@ sections:
       title: Contact
       subtitle:
       # Contact (add or remove contact options as necessary)
-      email: tzavellal@cardiff.ac.uk
+      email: l.tzavella@liverpool.ac.uk
       appointment_url: 'https://calendly.com/tzavellaloukia'
       address:
-        street: Cardiff University Brain Research Imaging Centre, Maindy Road
-        city: Cardiff
-        region: Wales
-        postcode: 'CF24 4HQ'
+        street: Eleanor Rathbone Building, Bedford Street South
+        city: Liverpool
+        region: England
+        postcode: 'L69 7ZA'
         country: United Kingdom
         country_code: UK
       # Automatically link email and phone or display as text?
